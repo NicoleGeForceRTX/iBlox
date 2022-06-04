@@ -1,0 +1,170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d006a0999e270040b7e1778b7fef618, type: 3}
+  m_Name: Level 8
+  m_EditorClassIdentifier: 
+  simpleBlocks:
+  - genericInfo:
+      scale: {x: 1, y: 3}
+      position: {x: -6, y: 0, z: 0}
+      color: {r: 1, g: 1, b: 1, a: 0}
+    freezeHorizontal: 0
+    freezeVertical: 1
+  - genericInfo:
+      scale: {x: 1, y: 1}
+      position: {x: -5, y: 0, z: -1}
+      color: {r: 1, g: 1, b: 1, a: 0}
+    freezeHorizontal: 0
+    freezeVertical: 1
+  - genericInfo:
+      scale: {x: 1, y: 2}
+      position: {x: -5, y: 0, z: 0.5}
+      color: {r: 0, g: 0, b: 0, a: 0}
+    freezeHorizontal: 0
+    freezeVertical: 1
+  - genericInfo:
+      scale: {x: 1, y: 3}
+      position: {x: -4, y: 0, z: 0}
+      color: {r: 1, g: 1, b: 1, a: 0}
+    freezeHorizontal: 0
+    freezeVertical: 1
+  - genericInfo:
+      scale: {x: 1, y: 1}
+      position: {x: -3, y: 0, z: -1}
+      color: {r: 1, g: 1, b: 1, a: 0}
+    freezeHorizontal: 0
+    freezeVertical: 1
+  - genericInfo:
+      scale: {x: 1, y: 2}
+      position: {x: -3, y: 0, z: 0.5}
+      color: {r: 0, g: 0, b: 0, a: 0}
+    freezeHorizontal: 0
+    freezeVertical: 1
+  - genericInfo:
+      scale: {x: 1, y: 3}
+      position: {x: -2, y: 0, z: 0}
+      color: {r: 1, g: 1, b: 1, a: 0}
+    freezeHorizontal: 0
+    freezeVertical: 1
+  - genericInfo:
+      scale: {x: 1, y: 1}
+      position: {x: -1, y: 0, z: -1}
+      color: {r: 1, g: 1, b: 1, a: 0}
+    freezeHorizontal: 0
+    freezeVertical: 1
+  - genericInfo:
+      scale: {x: 1, y: 2}
+      position: {x: -1, y: 0, z: 0.5}
+      color: {r: 0, g: 0, b: 0, a: 0}
+    freezeHorizontal: 0
+    freezeVertical: 1
+  - genericInfo:
+      scale: {x: 1, y: 3}
+      position: {x: 0, y: 0, z: 0}
+      color: {r: 1, g: 1, b: 1, a: 0}
+    freezeHorizontal: 0
+    freezeVertical: 1
+  - genericInfo:
+      scale: {x: 1, y: 1}
+      position: {x: 1, y: 0, z: -1}
+      color: {r: 1, g: 1, b: 1, a: 0}
+    freezeHorizontal: 0
+    freezeVertical: 1
+  - genericInfo:
+      scale: {x: 1, y: 2}
+      position: {x: 1, y: 0, z: 0.5}
+      color: {r: 0, g: 0, b: 0, a: 0}
+    freezeHorizontal: 0
+    freezeVertical: 1
+  - genericInfo:
+      scale: {x: 1, y: 3}
+      position: {x: 2, y: 0, z: 0}
+      color: {r: 1, g: 1, b: 1, a: 0}
+    freezeHorizontal: 0
+    freezeVertical: 1
+  - genericInfo:
+      scale: {x: 1, y: 1}
+      position: {x: 3, y: 0, z: -1}
+      color: {r: 1, g: 1, b: 1, a: 0}
+    freezeHorizontal: 0
+    freezeVertical: 1
+  - genericInfo:
+      scale: {x: 1, y: 2}
+      position: {x: 3, y: 0, z: 0.5}
+      color: {r: 0, g: 0, b: 0, a: 0}
+    freezeHorizontal: 0
+    freezeVertical: 1
+  - genericInfo:
+      scale: {x: 1, y: 3}
+      position: {x: 4, y: 0, z: 0}
+      color: {r: 1, g: 1, b: 1, a: 0}
+    freezeHorizontal: 0
+    freezeVertical: 1
+  - genericInfo:
+      scale: {x: 1, y: 1}
+      position: {x: 5, y: 0, z: -1}
+      color: {r: 1, g: 1, b: 1, a: 0}
+    freezeHorizontal: 0
+    freezeVertical: 1
+  - genericInfo:
+      scale: {x: 1, y: 2}
+      position: {x: 5, y: 0, z: 0.5}
+      color: {r: 0, g: 0, b: 0, a: 0}
+    freezeHorizontal: 0
+    freezeVertical: 1
+  - genericInfo:
+      scale: {x: 1, y: 3}
+      position: {x: 6, y: 0, z: 0}
+      color: {r: 1, g: 1, b: 1, a: 0}
+    freezeHorizontal: 0
+    freezeVertical: 1
+  - genericInfo:
+      scale: {x: 2, y: 1}
+      position: {x: -4, y: 0, z: -5}
+      color: {r: 0, g: 1, b: 1, a: 1}
+    freezeHorizontal: 1
+    freezeVertical: 0
+  - genericInfo:
+      scale: {x: 1, y: 2}
+      position: {x: 3, y: 0, z: -5}
+      color: {r: 0.44313726, g: 1, b: 0, a: 1}
+    freezeHorizontal: 0
+    freezeVertical: 1
+  - genericInfo:
+      scale: {x: 2, y: 1}
+      position: {x: 5.5, y: 0, z: -2}
+      color: {r: 0.40392157, g: 0, b: 0.77254903, a: 1}
+    freezeHorizontal: 1
+    freezeVertical: 1
+  mainBlock:
+    genericInfo:
+      scale: {x: 2, y: 1}
+      position: {x: -5, y: 0, z: -2}
+      color: {r: 0.8392157, g: 0, b: 1, a: 1}
+    freezeHorizontal: 0
+  toggleButtons:
+  - position: {x: -6, y: -0.36, z: -5}
+    color: {r: 0.40392157, g: 0, b: 0.77254903, a: 1}
+    toggleableBlocks:
+    - genericInfo:
+        scale: {x: 13, y: 2}
+        position: {x: 0, y: 0, z: 2.5}
+        color: {r: 0.40392157, g: 0, b: 0.77254903, a: 1}
+      initialActive: 1
+  - position: {x: -2, y: -0.36, z: -5}
+    color: {r: 0.40392157, g: 0, b: 0.77254903, a: 1}
+    toggleableBlocks:
+    - genericInfo:
+        scale: {x: 13, y: 1}
+        position: {x: 0, y: 0, z: -3}
+        color: {r: 0.40392157, g: 0, b: 0.77254903, a: 1}
+      initialActive: 1
